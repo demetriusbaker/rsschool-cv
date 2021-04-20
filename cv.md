@@ -1,17 +1,25 @@
-1) 
-[Dmitriy Korzhovnik](https://vk.com/dietmargrandarisingcosmosalexman)
-2) 
-Discord: Dietmar Granda#5636
-Github :-) https://github.com/8DietmarBarbarossa8
-Telegram: Dietmar_Granda
-LinkedIn: https://www.linkedin.com/in/android-developer-43a256210/
-3) 
-I am a student of top It-university of World. I like Android-development. I want to learn Android with active using programming language Kotlin. I try to combine the qualities of independent and team work.
-4) 
+# CV
+## Contact info:
+I'm [Dmitriy Korzhovnik](https://vk.com/dietmargrandarisingcosmosalexman)
+- Discord: Dietmar Granda#5636
+- [Github](https://github.com/8DietmarBarbarossa8)
+- Telegram: Dietmar_Granda
+- [LinkedIn](https://www.linkedin.com/in/android-developer-43a256210/)
+
+## Short bio:
+I'm a student of the best it-university in the World and like Android-development. 
+I want to learn Android with active using programming language Kotlin. I try to combine the qualities of independent and team work.
+I'm a 2nd year student at the university. 4 months of studying java \ kotlin and 2 months of working with Andoid Studio.
+In free time self-study programming language from textbooks, searching google, reading documentaion and practice
+
+## My skills:
 PL Java and Kotlin
 Gook knowledge on VCS Git, Algorithm, Data Structure, 
 IDE Intelllij Idea and Android Studio, OOP, Lambda, JVM, Design patterns, etc.
-5) Example of solved task from Codewars (4 kuy)
+My english level about A2-B1. I can read and understand documentation.
+
+## Example of solved task from Codewars (4 kyu)
+```kotlin
 object SumSquaredDivisors {
     fun listSquared(m: Long, n: Long): String {
         val result = mutableListOf<String>()
@@ -34,9 +42,8 @@ object SumSquaredDivisors {
         return set
     }
 }
-6)
-2 course at the university, 4 months of studying java \ kotlin and 2 months of working with Andoid Studio
-7) 
-Self-study p.l. from textbooks, searching google, reading documentaion and practice
-8) 
-My english level about A2-B1. I can read and understand documentation.
+```
+
+
+
+
