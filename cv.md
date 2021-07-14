@@ -4,7 +4,7 @@ I'm [Dmitriy Korzhovnik](https://vk.com/dietmargrandarisingcosmosalexman)
 - Discord: Dietmar Granda#5636
 - [Github](https://github.com/8DietmarBarbarossa8)
 - Telegram: Dietmar_Granda
-- [LinkedIn](https://www.linkedin.com/in/android-developer-43a256210/)
+- [LinkedIn](https://www.linkedin.com/in/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9-%D0%BA%D0%BE%D1%80%D0%B6%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA-43a256210/)
 
 ## Short bio:
 I'm a student of the best it-university in the World and like Android-development. 
